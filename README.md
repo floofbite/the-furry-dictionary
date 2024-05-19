@@ -1,13 +1,17 @@
 # The Furry Dictionary
 
-https://the-furry-dictionary.avoonix.com/
+https://dictionary.furries.space/
 
-[![Landing Page](./static/landing.png)](https://the-furry-dictionary.avoonix.com/)
+[![Landing Page](./static/landing.png)](https://dictionary.furries.space/)
 
-## Thanks
-
-- https://github.com/mattjennings/sveltekit-blog-template
-- https://web.archive.org/web/20050204093556/http://www.cloudchasershaconage.furtopia.org/furrydef.txt
+## Credits
+-
+https://github.com/kampty
+- 
+https://github.com/avoonix
+-
+https://github.com/mattjennings/sveltekit-blog-template
+-https://web.archive.org/web/20050204093556/http://www.cloudchasershaconage.furtopia.org/furrydef.txt
 - https://captainpackrat.com/furry/furry3.htm
 - http://www.furrydolphin.net/furry-dict.html
 - https://web.archive.org/web/20210105191529/https://www.furcen.org/fgc/glossary.html
