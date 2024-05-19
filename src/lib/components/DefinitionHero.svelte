@@ -58,7 +58,7 @@
     >
     <a
       class="inline-block text-blue-500 hover:text-blue-700 px-7 py-3 bg-transparent font-medium text-sm leading-snug uppercase rounded hover:bg-slate-100 dark:hover:bg-slate-800 focus:bg-gray-100 dark:focus:bg-slate-900 focus:outline-none focus:ring-0 active:bg-gray-200 dark:active:bg-slate-700 transition duration-150 ease-in-out"
-      href="https://github.com/avoonix/the-furry-dictionary/blob/master/definitions/{slug}.md"
+      href="https://github.com/nightprojects/the-furry-dictionary/blob/master/definitions/{slug}.md"
     >
       Edit
     </a>
